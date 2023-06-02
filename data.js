@@ -9,7 +9,7 @@ const fs = require('fs');
   const page = await browser.newPage();
 
   // Navigate to the website
-  const url = 'https://www.studio-app-tracker.betterpw.live/';
+  const url = ''; //removed website link
   await page.goto(url);
 
   // Wait for the desired elements to be visible

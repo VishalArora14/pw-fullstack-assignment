@@ -8,9 +8,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes lec -Extra class Electrochemistry by Kapil sir ",
@@ -21,9 +19,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes lec -Extra class Electrochemistry by Kapil sir ",
@@ -34,9 +30,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 14-45-05 ",
@@ -47,9 +41,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 15 Relation & Function By Dhaneshwar Sir ",
@@ -60,9 +52,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 15 Relation & Function By Dhaneshwar Sir ",
@@ -73,9 +63,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 15 Relation & Function By Dhaneshwar Sir ",
@@ -86,9 +74,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 11 Atomic Structure By Pawan Sir ",
@@ -99,9 +85,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec -06 electrochemistry by navneet sir ",
@@ -112,9 +96,7 @@ const data = [
     room: "206",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 11 Atomic Structure By Pawan Sir ",
@@ -125,9 +107,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec -06 electrochemistry by navneet sir ",
@@ -138,9 +118,7 @@ const data = [
     room: "206",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 04 Motion in a Straight Line By Neeraj Sir ",
@@ -151,9 +129,7 @@ const data = [
     room: "202",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 basic mathematic in physics by kkapil sharma sir ",
@@ -164,9 +140,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 04 Motion in a Straight Line By Neeraj Sir ",
@@ -177,9 +151,7 @@ const data = [
     room: "202",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 basic mathematic in physics by kkapil sharma sir ",
@@ -190,9 +162,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 basic mathematic in physics by kkapil sharma sir ",
@@ -203,9 +173,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-39-00 ",
@@ -216,9 +184,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-37-24 ",
@@ -229,9 +195,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-35-32 ",
@@ -242,9 +206,7 @@ const data = [
     room: "202",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-33-07 ",
@@ -255,9 +217,7 @@ const data = [
     room: "206",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-12 atomic structure by shivam sir ",
@@ -268,9 +228,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-31-37 ",
@@ -281,9 +239,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-12 atomic structure by shivam sir ",
@@ -294,9 +250,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-12 atomic structure by shivam sir ",
@@ -307,9 +261,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-35-45 ",
@@ -320,9 +272,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 01 Function By Abhinav Sir ",
@@ -333,9 +283,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 01 Function By Abhinav Sir ",
@@ -346,9 +294,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-13 electrostatic potential and capacitance by rahul sir ",
@@ -359,9 +305,7 @@ const data = [
     room: "206",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-13 electrostatic potential and capacitance by rahul sir ",
@@ -372,9 +316,7 @@ const data = [
     room: "206",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 16 Atomic Structure By Prashant Sir ",
@@ -385,9 +327,7 @@ const data = [
     room: "202",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-06 structural organization in animals by rajab sir ",
@@ -398,9 +338,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 16 Atomic Structure By Prashant Sir ",
@@ -411,9 +349,7 @@ const data = [
     room: "202",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-07 cell- unit of life by ruchika mam ",
@@ -424,9 +360,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-07 cell- unit of life by ruchika mam ",
@@ -437,9 +371,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-07 cell- unit of life by ruchika mam ",
@@ -450,9 +382,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-55-01 ",
@@ -463,9 +393,7 @@ const data = [
     room: "203",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -477,9 +405,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-16 ",
@@ -490,9 +416,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -504,9 +428,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -518,9 +440,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 functions by nishu sir ",
@@ -531,9 +451,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 functions by nishu sir ",
@@ -544,9 +462,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 functions by nishu sir ",
@@ -557,9 +473,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 11-16-43 ",
@@ -570,9 +484,7 @@ const data = [
     room: "202",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-49-50 ",
@@ -583,9 +495,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-50-07 ",
@@ -596,9 +506,7 @@ const data = [
     room: "201",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-23 ",
@@ -609,9 +517,7 @@ const data = [
     room: "206",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-35 ",
@@ -622,9 +528,7 @@ const data = [
     room: "205",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-11 ",
@@ -635,9 +539,7 @@ const data = [
     room: "204",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -659,9 +561,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes lec -Extra class Electrochemistry by Kapil sir ",
@@ -672,9 +572,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes lec -Extra class Electrochemistry by Kapil sir ",
@@ -685,9 +583,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 14-45-05 ",
@@ -698,9 +594,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 15 Relation & Function By Dhaneshwar Sir ",
@@ -711,9 +605,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 15 Relation & Function By Dhaneshwar Sir ",
@@ -724,9 +616,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 15 Relation & Function By Dhaneshwar Sir ",
@@ -737,9 +627,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 11 Atomic Structure By Pawan Sir ",
@@ -750,9 +638,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec -06 electrochemistry by navneet sir ",
@@ -763,9 +649,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 11 Atomic Structure By Pawan Sir ",
@@ -776,9 +660,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec -06 electrochemistry by navneet sir ",
@@ -789,9 +671,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 04 Motion in a Straight Line By Neeraj Sir ",
@@ -802,9 +682,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 basic mathematic in physics by kkapil sharma sir ",
@@ -815,9 +693,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 04 Motion in a Straight Line By Neeraj Sir ",
@@ -828,9 +704,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 basic mathematic in physics by kkapil sharma sir ",
@@ -841,9 +715,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 basic mathematic in physics by kkapil sharma sir ",
@@ -854,9 +726,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-39-00 ",
@@ -867,9 +737,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-37-24 ",
@@ -880,9 +748,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-35-32 ",
@@ -893,9 +759,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-33-07 ",
@@ -906,9 +770,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-12 atomic structure by shivam sir ",
@@ -919,9 +781,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-31-37 ",
@@ -932,9 +792,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-12 atomic structure by shivam sir ",
@@ -945,9 +803,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-12 atomic structure by shivam sir ",
@@ -958,9 +814,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 12-35-45 ",
@@ -971,9 +825,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 01 Function By Abhinav Sir ",
@@ -984,9 +836,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 01 Function By Abhinav Sir ",
@@ -997,9 +847,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-13 electrostatic potential and capacitance by rahul sir ",
@@ -1010,9 +858,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-13 electrostatic potential and capacitance by rahul sir ",
@@ -1023,9 +869,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 16 Atomic Structure By Prashant Sir ",
@@ -1036,9 +880,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-06 structural organization in animals by rajab sir ",
@@ -1049,9 +891,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "Notes Lec 16 Atomic Structure By Prashant Sir ",
@@ -1062,9 +902,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-07 cell- unit of life by ruchika mam ",
@@ -1075,9 +913,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-07 cell- unit of life by ruchika mam ",
@@ -1088,9 +924,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-07 cell- unit of life by ruchika mam ",
@@ -1101,9 +935,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-55-01 ",
@@ -1114,9 +946,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -1128,9 +958,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-16 ",
@@ -1141,9 +969,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -1155,9 +981,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
@@ -1169,9 +993,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 functions by nishu sir ",
@@ -1182,9 +1004,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 functions by nishu sir ",
@@ -1195,9 +1015,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "notes lec-01 functions by nishu sir ",
@@ -1208,9 +1026,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 11-16-43 ",
@@ -1221,9 +1037,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-49-50 ",
@@ -1234,9 +1048,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-50-07 ",
@@ -1247,9 +1059,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-23 ",
@@ -1260,9 +1070,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-35 ",
@@ -1273,9 +1081,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "true",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title: "2023-06-01 10-48-11 ",
@@ -1286,9 +1092,7 @@ const data = [
     room: "101",
     status1: "true",
     status2: "false",
-    publicUrl:
-      "https://sin1.contabostorage.com/studio-app/1880c50a-9314-4497-a052-ded295dfe088.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=1e85dae0b85419704bb2defff214dfc0%2F20230601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230601T151229Z&X-Amz-Expires=300&X-Amz-Signature=42e04be8e5d089bc1ce5fd433c0ba078ac5d5b950e29ff9ea77ead3304ee1c99&X-Amz-SignedHeaders=host",
-  },
+    publicUrl : "www.google.com" },
 
   {
     title:
