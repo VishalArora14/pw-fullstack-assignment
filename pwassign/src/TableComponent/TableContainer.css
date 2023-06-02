@@ -1,0 +1,81 @@
+.container{
+  width: 96%;
+  margin: auto;
+}
+
+.searchBox{
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.clearSortingAndFiltering{
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: rgb(242, 242, 242);
+}
+
+.clearSortingAndFiltering{
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color:rgb(250, 254, 255);
+}
+
+th{
+  text-align: center;
+  font-size: 1.1rem;
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  background-color: cadetblue;
+}
+
+td {
+  padding: 8px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.row-tile{
+  text-align: left;
+}
+
+th {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: #d3d3d3;
+}
+
+button {
+  margin-top: 16px;
+}
+
+
+.status-subheadings{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.active{
+  background-color: #7c7c7c;
+  color: #ffffff;
+}
+
+button{
+  padding: 10px;
+  margin: 13px 1px;
+  border-radius: 5px;
+}

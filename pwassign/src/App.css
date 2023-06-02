@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+html{
+  overflow: auto;
+}
+
+html::-webkit-scrollbar {
+  width: 5px;
+  background-color: #ffffff;
+}
+
+html::-webkit-scrollbar-thumb {
+  width: 5px;
+  background-color: #060606f1;
+  border-radius: 1rem;
+}
+
+.selectBar1{
+  background-color: #a8c5ff;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+}
+
+.selectBar2{
+  background-color: #b7b7b7;
+  color: rgb(0, 0, 0);
+}
+
+.dropdown{
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@media (max-width: 550px) {
+  .dropdown{
+    display: block;  
+  } 
+}
+@media (max-width: 750px) {
+  *{
+    font-size: small;  
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

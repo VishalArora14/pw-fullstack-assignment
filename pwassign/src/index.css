@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+}
+
+html{
+  /* background: linear-gradient(#cbeff5, #c5e3b6); */
+  /* background-repeat: no-repeat; */
+  background-color: #d8f0f4;
+}
