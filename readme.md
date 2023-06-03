@@ -1,6 +1,6 @@
 # Steps to reproduce on local machine : 
 ### Open folder where you want to clone the project
-### 1)git clone https://github.com/VishalArora14/v-assignment.git
+### 1)git clone https://github.com/VishalArora14/pw-fullstack-assignment.git
 ### open the folder
 ### 2)npm i
 ### 3)cd .\pwassign\
